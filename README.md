@@ -1,4 +1,4 @@
-# flying-around-the-globe-via-graphs
+# Flight-routes-finder
 This repository is for my CSC111 Final group Project.
 
 The goal of the final project was to use graphs or trees, two major data structures we covered in the course, to solve any problem we wanted.
