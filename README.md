@@ -2,7 +2,7 @@
 This repository is for my CSC111 Final group Project.
 
 The goal of the final project was to use graphs or trees, two major data structures we covered in the course, to solve any problem we wanted.
-I completed this project with three other group members: Aaditya Mandal, Faraz Hossein, and Dinkar Verma.
+I completed this project with three other group members: Aaditya Mandal, Faraz Hossein, and Yousuf Hassan.
 
 ## Background
 Our project is called: Flying Around the Globe Via Graphs.
